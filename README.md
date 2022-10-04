@@ -1,1 +1,3 @@
 # odin-recipes
+
+A brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. Hmm.. I guess I'm going to be creating a website full of RECIPES! Not sure what really it entails yet as the lesson hasn't described much else. I supposed I will be solidifying my HTML skills before moving ahead to CSS, which I learned a little bit of a while back. 
